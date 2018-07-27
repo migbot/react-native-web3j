@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/migbot/Code/OpenSource/web3j_test/node_modules/react-native-web3j/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/migbot/.android/build-cache/037bbdd6ba8a891382a9a9d7f71d0ef330bb062e/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

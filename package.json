@@ -1,0 +1,11 @@
+{
+  "name": "react-native-web3j",
+  "version": "0.0.1",
+  "description": "A Web3j native module for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Alatzar",
+  "license": "ISC"
+}
